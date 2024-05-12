@@ -1,0 +1,19 @@
+ALGORITHM FOR PAU CAFETERIA APP DEVELOPMENT
+
+ -Import the required modules (tkinter and messagebox).
+
+ -Define a class FoodCategory to encapsulate functionality related to food categories:
+ Define the constructor to initialize category name and items.
+ Define the select_item method to handle item selection.
+ Define the cashout method to handle checkout process.
+ Define the no_option method to handle "No" option during checkout.
+ Define the yes_option method to handle "Yes" option during checkout.
+ Define the calculate_total_price method to calculate total price.
+
+ -Create the main window the main window:
+ Create the main Tkinter window (PAUcaf).
+ Set the title and geometry of the main window.
+
+ -Create an instance of the FoodCategory class to represent a food category.
+
+ -Loop to display the main window and handle user interac
